@@ -1,4 +1,4 @@
-# Podcast / Talkshow Content & Script Producer (Skill #156)
+# Podcast / Talkshow Content & Script Producer
 
 A production-grade AI skill for structuring podcast episodes and talkshow segments using research-backed narrative frameworks. Part of the `marketing-content-branding` cluster.
 
